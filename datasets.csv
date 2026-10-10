@@ -5,6 +5,7 @@
 "clever_vehicle_locations_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/clever_vehicle_locations/v1/data.parquet"
 "gtfsrt_trip_updates_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/gtfsrt_trip_updates/v1/data.parquet"
 "gtfsrt_vehicle_positions_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/gtfsrt_vehicle_positions/v1/data.parquet"
+"hamilton_county_parcels_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/hamilton_county_parcels/v1/data.parquet"
 "ntd_monthly_ridership_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/ntd_monthly_ridership/v1/data.parquet"
 "scheduled_service_dates_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/scheduled_service_dates/v1/data.parquet"
 "scheduled_bus_trips_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/scheduled_bus_trips/v1/data.parquet"
