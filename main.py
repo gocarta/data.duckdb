@@ -27,6 +27,8 @@ for row in datasets:
 
     statement += f"CREATE VIEW {dataset_name} AS SELECT * FROM '{data_url}';\n"
 
+statement += "CHECKPOINT;"
+
 result = conn.execute(statement).fetchall()
 
 conn.close()
