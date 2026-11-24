@@ -29,6 +29,8 @@ for row in datasets:
 
 statement += "CHECKPOINT;"
 
+statement += "\n" # force previous statement to run
+
 result = conn.execute(statement).fetchall()
 
 conn.close()
