@@ -2,6 +2,7 @@
 "bike_chattanooga_stations_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/bike_chattanooga_stations/v1/data.parquet"
 "bicycle_repair_stations_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/bicycle_repair_stations/v1/data.parquet"
 "clever_predictions_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/clever_predictions/v1/data.parquet"
+"clever_stops_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/clever_stops/v1/data.parquet"
 "clever_vehicle_locations_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/clever_vehicle_locations/v1/data.parquet"
 "gtfsrt_trip_updates_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/gtfsrt_trip_updates/v1/data.parquet"
 "gtfsrt_vehicle_positions_v1","https://gocarta.s3.us-east-2.amazonaws.com/public/data/gtfsrt_vehicle_positions/v1/data.parquet"
